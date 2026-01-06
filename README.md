@@ -1,4 +1,6 @@
-probably not using this fork anymore but a different repo now.
+# zth
+
+my fork of Karpathy's "Neural Networks: Zero to Hero" course.
 
 ## Neural Networks: Zero to Hero
 
@@ -72,6 +74,10 @@ We take the 2-layer MLP from previous video and make it deeper with a tree-like 
 We build a Generatively Pretrained Transformer (GPT), following the paper "Attention is All You Need" and OpenAI's GPT-2 / GPT-3. We talk about connections to ChatGPT, which has taken the world by storm. We watch GitHub Copilot, itself a GPT, help us write a GPT (meta :D!) . I recommend people watch the earlier makemore videos to get comfortable with the autoregressive language modeling framework and basics of tensors and PyTorch nn, which we take for granted in this video.
 
 - [YouTube video lecture](https://www.youtube.com/watch?v=kCc8FmEb1nY). For all other links see the video description.
+- https://github.com/karpathy/ng-video-lecture
+- https://colab.research.google.com/drive/1JMLa53HDuA-i7ZBmqV7ZnA3c_fvtXnx-?usp=sharing
+
+These are some of the other links.
 
 ---
 
